@@ -8,6 +8,7 @@
 		1	structure of data
 		2	process of data access in the various data models
 			Estimated Time Duration for this Topic  
+$ ACID
 5	Overview of Data Model		
 		1	 Role of the Data Model in Application development.
 		2	 Benefits of Data Model.
