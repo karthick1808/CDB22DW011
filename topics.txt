@@ -1,10 +1,4 @@
-1	Introduction to Database Systems		
-		1	Need for a database
-		2	File- Based Systems
-		3	Define database and DBMS
-		4	features of the DBMS
-		5	usage of database
-			Estimated Time Duration for this Topic  
+1	NOrmalization
 2	DBMS Architecture		
 		1	three-level architecture of DBMS
 		2	functions of Database Systems
