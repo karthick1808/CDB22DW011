@@ -1,0 +1,29 @@
+1	Introduction to Database Systems		
+		1	Need for a database
+		2	File- Based Systems
+		3	Define database and DBMS
+		4	features of the DBMS
+		5	usage of database
+			Estimated Time Duration for this Topic  
+2	DBMS Architecture		
+		1	three-level architecture of DBMS
+		2	functions of Database Systems
+		3	overall system architecture
+			Estimated Time Duration for this Topic  
+3	Types of Databases		
+		1	structure of data
+		2	process of data access in the various data models
+			Estimated Time Duration for this Topic  
+5	Overview of Data Model		
+		1	 Role of the Data Model in Application development.
+		2	 Benefits of Data Model.
+			Estimated Time Duration for this Topic  
+6	Categories of Data Model		
+		1	 OLTP
+		2	 Dimensional Modeling
+			Estimated Time Duration for this Topic  
+7	Stages of Data Model		
+		1	Conceptual Modeling
+		2	 Logical Modeling
+		3	Physical Modeling
+			Estimated Time Duration for this Topic
